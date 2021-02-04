@@ -8,6 +8,7 @@ canvas.height = 600;
 const cellSize = 100;
 const cellGap = 3;
 const gameGrid = [];
+const defenders = [];
 
 // mouse 
 const mouse = {

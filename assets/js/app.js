@@ -10,7 +10,7 @@ let numberOfResources = 300;
 let enemiesInterval = 600;
 let frame = 0;
 let gameOver = false;
-let score = 0;
+let score = 0; 
 const winningScore = 50;
 
 const gameGrid = [];
